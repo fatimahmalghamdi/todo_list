@@ -1,0 +1,22 @@
+
+.mycontainer{
+    margin: auto;
+    width: 1000px;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.mytabs{
+    border: "2px solid black";
+    width: 70px;
+    height: 50px;
+    margin: 20px;
+    background-color: lightblue;
+}
+
+.mybox{
+    border: 2px solid black;
+    width: 500px;
+    height: 100px;
+    margin: auto;
+}
